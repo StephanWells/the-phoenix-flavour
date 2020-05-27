@@ -149,7 +149,7 @@ enable = false
 	icon = "fab fa-discord"
         desc = "Join our Discord!"
 [[params.links.developer]]
-	name = "Nexus"
-	url = "https://www.nexusmods.com/skyrimspecialedition/mods/14223"
-	icon = "fas fa-external-link-square-alt"
-        desc = "The Phoenix Flavour on Nexus"
+	name = "Patreon"
+	url = "https://www.patreon.com/thephoenixflavour"
+	icon = "fab fa-patreon"
+        desc = "The Phoenix Flavour on Patreon!"
